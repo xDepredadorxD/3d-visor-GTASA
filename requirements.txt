@@ -1,0 +1,6 @@
+moderngl
+pygame
+numpy
+pyrr
+Pillow
+texture2ddecoder
