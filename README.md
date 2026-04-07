@@ -1,4 +1,4 @@
-# 🏎️ GTA SA 3D Visor Pro
+# GTA SA 3D Visor Pro
 <img width="1283" height="758" alt="image" src="https://github.com/user-attachments/assets/5c63def0-718c-4125-9e1b-d864a8774d20" />
 <img width="1283" height="759" alt="image" src="https://github.com/user-attachments/assets/fea6a6f3-c641-4307-b069-80ab4557767b" />
 
